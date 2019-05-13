@@ -1,1 +1,24 @@
-[//]: # "test"
+<!-- UTF-16: --><meta charset="utf-16">
+</script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+
+**Example**
+
+Welcome to Markdeep. It's the simple 
+way to write plain text with _style_.
+                          
+*************************************
+*                _______            *
+* .-------.     /      /   .-----.  *
+* | Write +-+->/ Edit ++->| Share | *
+* '-------' ^ /______/ |   '-----'  *
+*           |          |            *
+*            '--------'             *
+*************************************
+
+1. Write a text document
+2. Add the Markdeep line at the end
+3. Save with file extension `.md.html`
+4. Double-click to view
+
+Learn more at
+https://casual-effects.com/markdeep
